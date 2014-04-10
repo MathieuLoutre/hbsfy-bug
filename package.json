@@ -1,0 +1,15 @@
+{
+  "name": "hbsfy-bug",
+  "version": "0.0.1",
+  "scripts":{
+    "postinstall": "grunt"
+  },
+  "dependencies": {
+    "grunt": "0.4.x",
+    "grunt-cli": "0.1.x",
+    "grunt-browserify": "1.3.x",
+    "coffeeify": "0.5.x",
+    "hbsfy": "1.3.x",
+    "uglifyify": "2.0.x"
+  }
+}
